@@ -1,7 +1,7 @@
 {
   "name": "factorylike",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript object factory.",
   "main": "index.js",
   "scripts": {
   },
